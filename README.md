@@ -26,7 +26,7 @@ Update the below line in the python files to run on Hadoop
 
 ## Local Execution
 Output of Mapreduce Python Program
-![HadoopExecution](https://user-images.githubusercontent.com/75573079/122639399-a168c780-d0c7-11eb-855b-aa42f97b78d6.PNG)
+![Local Execution](https://user-images.githubusercontent.com/75573079/122639429-cbba8500-d0c7-11eb-8a0e-fb4e61e3fc99.PNG)
 
 ## Hadoop Execution
 ![HadoopExecution](https://user-images.githubusercontent.com/75573079/122639352-5a7ad200-d0c7-11eb-8988-4bae0d4130f3.PNG)
