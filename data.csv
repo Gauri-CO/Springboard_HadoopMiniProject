@@ -1,0 +1,16 @@
+1,I,VXIO456XLBB630221,Nissan,Altima,2003,5/8/2002,Initial sales from TechMotors
+2,I,INU45KIOOPA343980,Mercedes,C300,2015,1/1/2014,Sold from EuroMotors
+3,A,VXIO456XLBB630221,,,,7/2/2014,Head on collision
+4,R,VXIO456XLBB630221,,,,8/5/2014,Repair transmission
+5,I,VOME254OOXW344325,Mercedes,E350,2015,2/1/2014,Sold from Carmax
+6,R,VOME254OOXW344325,,,,2/6/2015,Wheel allignment service
+7,R,VXIO456XLBB630221,,,,1/1/2015,Replace right head light
+8,I,EXOA00341AB123456,Mercedes,SL550,2016,1/1/2015,Sold from AceCars
+9,A,VOME254OOXW344325,,,,10/1/2015,Side collision
+10,R,VOME254OOXW344325,,,,9/1/2015,Changed tires
+11,R,EXOA00341AB123456,,,,5/1/2015,Repair engine
+12,A,EXOA00341AB123456,,,,5/3/2015,Vehicle rollover
+13,R,VOME254OOXW344325,,,,9/1/2015,Replace passenger side door
+14,I,UXIA769ABCC447906,Toyota,Camery,2017,5/8/2016,Initial sales from Carmax
+15,R,UXIA769ABCC447906,,,,1/2/2020,Initial sales from Carmax
+16,A,INU45KIOOPA343980,,,,5/1/2020,Side collision
